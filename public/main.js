@@ -23,8 +23,6 @@ const getSuggestions = async () => {
     console.log(error);
   }
 }
-// Code goes here
-
 
 // Clear previous results and display results to webpage
 const displaySuggestions = (event) => {
